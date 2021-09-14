@@ -3,7 +3,7 @@ This project is image gallery website.
 this project build using HTML5,CSS,boostrap.
 
 Please visit to this link to view live demo of this project.
-https://pulasthi-nanayakkara.github.io/-imageGallery/ 
+https://pulasthi-narada.github.io/-imageGallery/
 
 reference 
 The Web Developer Bootcamp course Section 7: Bootstrap
